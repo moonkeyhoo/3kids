@@ -4573,75 +4573,76 @@ http://115.171.80.57:1688/rtp/225.1.8.240:4120$北京电信11
 http://182.101.175.59:9668/rtp/239.252.219.165:5140$江西电信
 #EXTINF:-1 group-title="电影频道" tvg-name="华数动画" tvg-logo="http://175.178.182.213/tb/华数动画.png" epg-url="https://e.erw.cc/e.xml",华数动画
 http://113.205.140.84:4022/rtp/235.254.198.87:1624$重庆市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
-http://122.234.152.56:55555/rtp/233.50.201.226:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
-http://183.146.219.179:4022/rtp/233.50.201.226:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
+#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
 http://182.101.175.59:9668/rtp/239.252.219.60:5140$江西电信
-#EXTINF:-1 group-title="4K频道" tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
-http://59.173.123.57:4022/rtp/239.69.1.12:9712$湖北电信
-#EXTINF:-1 group-title="4K频道" tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
 http://58.35.103.226:3333/rtp/239.45.0.55:5140$上海市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
 http://58.35.103.226:3333/rtp/233.18.204.188:5140$上海市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
 http://116.233.38.102:8888/rtp/239.45.0.55:5140$上海市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="https://e.erw.cc/e.xml",CCTV4K
 http://116.233.38.102:8888/rtp/233.18.204.188:5140$上海市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/湖南卫视4K.png" epg-url="https://e.erw.cc/e.xml",湖南卫视4K
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://175.178.182.213/tb/北京卫视4K.png" epg-url="https://e.erw.cc/e.xml",北京卫视4K
+http://59.173.123.57:4022/rtp/239.69.1.12:9712$湖北电信
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://175.178.182.213/tb/深圳卫视4K.png" epg-url="https://e.erw.cc/e.xml",深圳卫视4K
+http://122.234.152.56:55555/rtp/233.50.201.226:5140$浙江电信
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://175.178.182.213/tb/深圳卫视4K.png" epg-url="https://e.erw.cc/e.xml",深圳卫视4K
+http://183.146.219.179:4022/rtp/233.50.201.226:5140$浙江电信
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/湖南卫视4K.png" epg-url="https://e.erw.cc/e.xml",湖南卫视4K
 http://122.234.152.56:55555/rtp/233.50.202.106:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/湖南卫视4K.png" epg-url="https://e.erw.cc/e.xml",湖南卫视4K
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/湖南卫视4K.png" epg-url="https://e.erw.cc/e.xml",湖南卫视4K
 http://183.30.201.242:10002/rtp/239.77.0.56:5146$广东电信
-#EXTINF:-1 group-title="4K频道" tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/湖南卫视4K.png" epg-url="https://e.erw.cc/e.xml",湖南卫视4K
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/湖南卫视4K.png" epg-url="https://e.erw.cc/e.xml",湖南卫视4K
 http://183.146.219.179:4022/rtp/233.50.202.106:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/湖南卫视4K.png" epg-url="https://e.erw.cc/e.xml",湖南卫视4K
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/湖南卫视4K.png" epg-url="https://e.erw.cc/e.xml",湖南卫视4K
 http://122.241.211.237:4022/rtp/233.50.202.106:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/湖南卫视4K.png" epg-url="https://e.erw.cc/e.xml",湖南卫视4K
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/湖南卫视4K.png" epg-url="https://e.erw.cc/e.xml",湖南卫视4K
 http://183.7.151.25:8881/rtp/239.77.0.56:5146$广东电信
-#EXTINF:-1 group-title="4K频道" tvg-name="浙江卫视4K" tvg-logo="http://175.178.182.213/tb/浙江卫视4K.png" epg-url="https://e.erw.cc/e.xml",浙江卫视4K
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="http://175.178.182.213/tb/浙江卫视4K.png" epg-url="https://e.erw.cc/e.xml",浙江卫视4K
 http://122.234.152.56:55555/rtp/233.50.202.104:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="浙江卫视4K" tvg-logo="http://175.178.182.213/tb/浙江卫视4K.png" epg-url="https://e.erw.cc/e.xml",浙江卫视4K
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="http://175.178.182.213/tb/浙江卫视4K.png" epg-url="https://e.erw.cc/e.xml",浙江卫视4K
 http://183.7.151.25:8881/rtp/239.77.0.58:5146$广东电信
-#EXTINF:-1 group-title="4K频道" tvg-name="东方卫视4K" tvg-logo="http://175.178.182.213/tb/东方卫视4K.png" epg-url="https://e.erw.cc/e.xml",东方卫视4K
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://175.178.182.213/tb/东方卫视4K.png" epg-url="https://e.erw.cc/e.xml",东方卫视4K
 http://122.241.211.237:4022/rtp/233.50.202.105:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="东方卫视4K" tvg-logo="http://175.178.182.213/tb/东方卫视4K.png" epg-url="https://e.erw.cc/e.xml",东方卫视4K
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://175.178.182.213/tb/东方卫视4K.png" epg-url="https://e.erw.cc/e.xml",东方卫视4K
 http://58.35.103.226:3333/rtp/233.18.204.224:5140$上海市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="东方卫视4K" tvg-logo="http://175.178.182.213/tb/东方卫视4K.png" epg-url="https://e.erw.cc/e.xml",东方卫视4K
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://175.178.182.213/tb/东方卫视4K.png" epg-url="https://e.erw.cc/e.xml",东方卫视4K
 http://116.233.38.102:8888/rtp/233.18.204.224:5140$上海市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="东方卫视4K" tvg-logo="http://175.178.182.213/tb/东方卫视4K.png" epg-url="https://e.erw.cc/e.xml",东方卫视4K
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://175.178.182.213/tb/东方卫视4K.png" epg-url="https://e.erw.cc/e.xml",东方卫视4K
 http://183.7.151.25:8881/rtp/239.77.0.59:5146$广东电信
-#EXTINF:-1 group-title="4K频道" tvg-name="山东卫视4K" tvg-logo="http://175.178.182.213/tb/山东卫视4K.png" epg-url="https://e.erw.cc/e.xml",山东卫视4K
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="http://175.178.182.213/tb/山东卫视4K.png" epg-url="https://e.erw.cc/e.xml",山东卫视4K
 http://183.146.219.179:4022/rtp/233.50.202.108:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="山东卫视4K" tvg-logo="http://175.178.182.213/tb/山东卫视4K.png" epg-url="https://e.erw.cc/e.xml",山东卫视4K
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="http://175.178.182.213/tb/山东卫视4K.png" epg-url="https://e.erw.cc/e.xml",山东卫视4K
 http://58.35.103.226:3333/rtp/239.45.3.180:5140$上海市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="山东卫视4K" tvg-logo="http://175.178.182.213/tb/山东卫视4K.png" epg-url="https://e.erw.cc/e.xml",山东卫视4K
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="http://175.178.182.213/tb/山东卫视4K.png" epg-url="https://e.erw.cc/e.xml",山东卫视4K
 http://116.233.38.102:8888/rtp/239.45.3.180:5140$上海市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
 http://183.30.201.242:10002/rtp/239.77.0.65:5146$广东电信
-#EXTINF:-1 group-title="4K频道" tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
 http://183.30.201.242:10002/rtp/239.77.0.66:5146$广东电信
-#EXTINF:-1 group-title="4K频道" tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
 http://183.146.219.179:4022/rtp/233.50.202.101:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
 http://122.241.211.237:4022/rtp/233.50.202.101:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
 http://58.35.103.226:3333/rtp/233.18.204.218:5140$上海市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
 http://183.7.151.25:8881/rtp/239.77.0.65:5146$广东电信
-#EXTINF:-1 group-title="4K频道" tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://175.178.182.213/tb/广东卫视4K.png" epg-url="https://e.erw.cc/e.xml",广东卫视4K
 http://183.7.151.25:8881/rtp/239.77.0.66:5146$广东电信
-#EXTINF:-1 group-title="4K频道" tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
 http://122.234.152.56:55555/rtp/233.50.202.109:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
 http://183.30.201.242:10002/rtp/239.77.0.60:5146$广东电信
-#EXTINF:-1 group-title="4K频道" tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
 http://183.146.219.179:4022/rtp/233.50.202.109:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
 http://122.241.211.237:4022/rtp/233.50.202.109:5140$浙江电信
-#EXTINF:-1 group-title="4K频道" tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
 http://58.35.103.226:3333/rtp/239.45.3.48:5140$上海市电信
-#EXTINF:-1 group-title="4K频道" tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="http://175.178.182.213/tb/四川卫视4K.png" epg-url="https://e.erw.cc/e.xml",四川卫视4K
 http://183.7.151.25:8881/rtp/239.77.0.60:5146$广东电信
 #EXTINF:-1 group-title="地方频道" tvg-name="BRTV纪实科教" tvg-logo="http://175.178.182.213/tb/BRTV纪实科教.png" epg-url="https://e.erw.cc/e.xml",BRTV纪实科教
 http://sh.lnott.top:880/dx64.m3u8
