@@ -15873,15 +15873,6 @@ http://115.171.80.57:1688/rtp/225.1.8.38:8002$北京电信11
 #EXTINF:-1 group-title="电影频道" tvg-name="淘电影" tvg-logo="http://175.178.182.213/tb/%E6%B7%98%E7%94%B5%E5%BD%B1.png" epg-url="https://e.erw.cc/e.xml",淘电影
 http://115.171.216.39:4000/rtp/225.1.8.38:8002$北京电信21
 
-#EXTINF:-1 group-title="电影频道" tvg-name="淘4K" tvg-logo="http://175.178.182.213/tb/%E6%B7%984K.png" epg-url="https://e.erw.cc/e.xml",淘4K
-http://114.254.33.252:18888/rtp/239.3.1.249:8001$北京联通11
-
-#EXTINF:-1 group-title="电影频道" tvg-name="淘4K" tvg-logo="http://175.178.182.213/tb/%E6%B7%984K.png" epg-url="https://e.erw.cc/e.xml",淘4K
-http://115.171.80.57:1688/rtp/225.1.8.211:8002$北京电信11
-
-#EXTINF:-1 group-title="电影频道" tvg-name="淘4K" tvg-logo="http://175.178.182.213/tb/%E6%B7%984K.png" epg-url="https://e.erw.cc/e.xml",淘4K
-http://115.171.216.39:4000/rtp/225.1.8.211:8002$北京电信21
-
 #EXTINF:-1 group-title="电影频道" tvg-name="CHC家庭影院" tvg-logo="http://175.178.182.213/tb/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" epg-url="https://e.erw.cc/e.xml",CHC家庭影院
 http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -16364,6 +16355,15 @@ http://114.241.110.111:85/tsfile/live/21/1021_1.m3u8?key=txiptv
 
 #EXTINF:-1 group-title="电影频道" tvg-name="BesTv4K" tvg-logo="http://175.178.182.213/tb/BesTv4K.png" epg-url="https://e.erw.cc/e.xml",BesTv4K
 http://114.245.199.251:85/tsfile/live/21/1021_1.m3u8?key=txiptv
+
+#EXTINF:-1 group-title="电影频道" tvg-name="BesTv4K" tvg-logo="http://175.178.182.213/tb/%E6%B7%984K.png" epg-url="https://e.erw.cc/e.xml",BesTv4K
+http://114.254.33.252:18888/rtp/239.3.1.249:8001$北京联通11
+
+#EXTINF:-1 group-title="电影频道" tvg-name="BesTv4K" tvg-logo="http://175.178.182.213/tb/%E6%B7%984K.png" epg-url="https://e.erw.cc/e.xml",BesTv4K
+http://115.171.80.57:1688/rtp/225.1.8.211:8002$北京电信11
+
+#EXTINF:-1 group-title="电影频道" tvg-name="BesTv4K" tvg-logo="http://175.178.182.213/tb/%E6%B7%984K.png" epg-url="https://e.erw.cc/e.xml",BesTv4K
+http://115.171.216.39:4000/rtp/225.1.8.211:8002$北京电信21
 
 #EXTINF:-1 group-title="电影频道" tvg-name="华数4K" tvg-logo="http://175.178.182.213/tb/%E5%8D%8E%E6%95%B04K.png" epg-url="https://e.erw.cc/e.xml",华数4K
 http://115.171.80.57:1688/rtp/225.1.8.80:2000$北京电信11
