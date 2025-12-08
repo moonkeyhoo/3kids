@@ -2691,6 +2691,14 @@ https://migu.188766.xyz/?migutoken=a567cd703ca589ee9379f2ed56050e34&id=CHC%E5%BD
 http://39.77.27.74:4002/rtp/239.253.254.154:8000
 #EXTINF:-1 group-title="电影频道" tvg-name="天映经典" tvg-logo="http://175.178.182.213/tb/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png" epg-url="https://e.erw.cc/e.xml",天映经典
 https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="http://175.178.182.213/tb/天映经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",天映经典
+http://156.239.254.7:5555/smt.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="http://175.178.182.213/tb/天映经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",天映经典
+https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="http://175.178.182.213/tb/天映经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",天映经典
+https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="http://175.178.182.213/tb/天映经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",天映经典
+http://free.cnlive.club/channel/n7e49c99a.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-name="邵氏影院" tvg-logo="http://175.178.182.213/tb/%E9%82%B5%E6%B0%8F%E5%BD%B1%E9%99%A2.png" epg-url="https://e.erw.cc/e.xml",邵氏影院
 http://81.70.10.196:35455/douyu/4246519
 #EXTINF:-1 group-title="电影频道" tvg-name="邵氏影院" tvg-logo="http://175.178.182.213/tb/%E9%82%B5%E6%B0%8F%E5%BD%B1%E9%99%A2.png" epg-url="https://e.erw.cc/e.xml",邵氏影院
