@@ -4171,6 +4171,24 @@ https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
 http://113.195.172.192:808/hls/112/index.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-name="CHC影迷电影" tvg-logo="http://175.178.182.213/tb/CHC影迷电影.png" epg-url="https://e.erw.cc/e.xml",CHC影迷电影
 http://39.65.207.32:1025/udp/239.253.254.154:8000$山东联通
+#EXTINF:-1 group-title="电影频道" tvg-name="CHC家庭影院" tvg-logo="http://175.178.182.213/tb/CHC家庭影院.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC家庭影院
+http://58.245.255.38:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="电影频道" tvg-name="CHC家庭影院" tvg-logo="http://175.178.182.213/tb/CHC家庭影院.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC家庭影院
+http://111.26.72.89:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="电影频道" tvg-name="CHC动作电影" tvg-logo="http://175.178.182.213/tb/CHC动作电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC动作电影
+http://58.245.255.38:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="电影频道" tvg-name="CHC动作电影" tvg-logo="http://175.178.182.213/tb/CHC动作电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC动作电影
+http://111.26.72.89:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="电影频道" tvg-name="CHC影迷电影" tvg-logo="http://175.178.182.213/tb/CHC影迷电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC影迷电影
+http://58.245.255.38:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="电影频道" tvg-name="长影频道" tvg-logo="http://175.178.182.213/tb/长影频道.png" epg-url="http://epg.51zmt.top:8000/e.xml",长影频道
+http://175.16.52.75:85/tsfile/live/0013_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="电影频道" tvg-name="长影频道" tvg-logo="http://175.178.182.213/tb/长影频道.png" epg-url="http://epg.51zmt.top:8000/e.xml",长影频道
+http://111.26.72.89:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="电影频道" tvg-name="华数武侠剧场" tvg-logo="http://175.178.182.213/tb/华数武侠剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml",华数武侠剧场
+http://183.220.20.17:4000/rtp/239.10.0.133:5140
+#EXTINF:-1 group-title="电影频道" tvg-name="华数古装剧场" tvg-logo="http://175.178.182.213/tb/华数古装剧场.png" epg-url="http://epg.51zmt.top:8000/e.xml",华数古装剧场
+http://183.220.20.17:4000/rtp/239.10.0.126:5140
 #EXTINF:-1 group-title="电影频道" tvg-name="天映经典" tvg-logo="http://175.178.182.213/tb/天映经典.png" epg-url="https://e.erw.cc/e.xml",天映经典
 http://tl.061833.xyz/tl/null-1
 #EXTINF:-1 group-title="电影频道" tvg-name="天映经典" tvg-logo="http://175.178.182.213/tb/天映经典.png" epg-url="https://e.erw.cc/e.xml",天映经典
@@ -4385,6 +4403,30 @@ http://120.238.94.10:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.227.194.26:4022/rtp/239.254.201.200:6356$河北电信21
 #EXTINF:-1 group-title="其他频道" tvg-name="国学" tvg-logo="http://175.178.182.213/tb/国学.png" epg-url="https://e.erw.cc/e.xml",国学
 http://182.123.208.170:12345/rtp/225.1.4.196:1311$河南联通
+#EXTINF:-1 group-title="其他频道" tvg-name="汽摩" tvg-logo="http://175.178.182.213/tb/汽摩.png" epg-url="http://epg.51zmt.top:8000/e.xml",汽摩
+http://58.245.255.38:9999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="国学" tvg-logo="http://175.178.182.213/tb/国学.png" epg-url="http://epg.51zmt.top:8000/e.xml",国学
+http://58.245.255.38:9999/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="金鹰纪实" tvg-logo="http://175.178.182.213/tb/金鹰纪实.png" epg-url="http://epg.51zmt.top:8000/e.xml",金鹰纪实
+http://58.245.255.38:9999/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="文物宝库" tvg-logo="http://175.178.182.213/tb/文物宝库.png" epg-url="http://epg.51zmt.top:8000/e.xml",文物宝库
+http://58.245.255.38:9999/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="武术世界" tvg-logo="http://175.178.182.213/tb/武术世界.png" epg-url="http://epg.51zmt.top:8000/e.xml",武术世界
+http://58.245.255.38:9999/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="武术世界" tvg-logo="http://175.178.182.213/tb/武术世界.png" epg-url="http://epg.51zmt.top:8000/e.xml",武术世界
+http://111.26.72.89:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="哈哈炫动" tvg-logo="http://175.178.182.213/tb/哈哈炫动.png" epg-url="http://epg.51zmt.top:8000/e.xml",哈哈炫动
+http://58.245.255.38:9999/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="中国交通" tvg-logo="http://175.178.182.213/tb/中国交通.png" epg-url="http://epg.51zmt.top:8000/e.xml",中国交通
+http://58.245.255.38:9999/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="嘉佳卡通" tvg-logo="http://175.178.182.213/tb/嘉佳卡通.png" epg-url="http://epg.51zmt.top:8000/e.xml",嘉佳卡通
+http://58.245.255.38:9999/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="睛彩篮球" tvg-logo="http://175.178.182.213/tb/睛彩篮球.png" epg-url="http://epg.51zmt.top:8000/e.xml",睛彩篮球
+http://58.245.255.38:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="睛彩羽毛球" tvg-logo="http://175.178.182.213/tb/睛彩羽毛球.png" epg-url="http://epg.51zmt.top:8000/e.xml",睛彩羽毛球
+http://58.245.255.38:9999/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道" tvg-name="睛彩广场舞" tvg-logo="http://175.178.182.213/tb/睛彩广场舞.png" epg-url="http://epg.51zmt.top:8000/e.xml",睛彩广场舞
+http://58.245.255.38:9999/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他频道" tvg-name="新动漫" tvg-logo="http://175.178.182.213/tb/新动漫.png" epg-url="https://e.erw.cc/e.xml",新动漫
 http://171.104.106.97:50112/udp/239.81.0.235:4056$广西电信21
 #EXTINF:-1 group-title="其他频道" tvg-name="欢笑剧场" tvg-logo="http://175.178.182.213/tb/欢笑剧场.png" epg-url="https://e.erw.cc/e.xml",欢笑剧场
