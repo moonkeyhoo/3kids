@@ -2261,6 +2261,41 @@ http://61.182.24.170:8080/live/xiangjiao-cwjd.m3u8
 http://m.061899.xyz/mg/cwjd
 #EXTINF:-1 group-title="电影频道" tvg-name="重温经典" tvg-logo="http://175.178.182.213/tb/重温经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",重温经典
 http://8.138.7.223/tv/cwjd.php
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 group-title="西北五省频道" tvg-name="陕西一套新闻资讯" tvg-logo="http://175.178.182.213/tb/陕西一套新闻资讯.png" epg-url="http://epg.51zmt.top:8000/e.xml",陕西一套新闻资讯
+http://219.145.93.74:10000/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="西北五省频道" tvg-name="陕西一套新闻资讯" tvg-logo="http://175.178.182.213/tb/陕西一套新闻资讯.png" epg-url="http://epg.51zmt.top:8000/e.xml",陕西一套新闻资讯
+http://112.46.85.60:8009/hls/18/index.m3u8
+#EXTINF:-1 group-title="西北五省频道" tvg-name="陕西二套都市青春" tvg-logo="http://175.178.182.213/tb/陕西二套都市青春.png" epg-url="http://epg.51zmt.top:8000/e.xml",陕西二套都市青春
+http://219.145.93.74:10000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="西北五省频道" tvg-name="陕西二套都市青春" tvg-logo="http://175.178.182.213/tb/陕西二套都市青春.png" epg-url="http://epg.51zmt.top:8000/e.xml",陕西二套都市青春
+http://112.46.85.60:8009/hls/19/index.m3u8
+#EXTINF:-1 group-title="西北五省频道" tvg-name="陕西三套生活" tvg-logo="http://175.178.182.213/tb/陕西三套生活.png" epg-url="http://epg.51zmt.top:8000/e.xml",陕西三套生活
+http://112.46.85.60:8009/hls/20/index.m3u8
+#EXTINF:-1 group-title="西北五省频道" tvg-name="陕西五套公共" tvg-logo="http://175.178.182.213/tb/陕西五套公共.png" epg-url="http://epg.51zmt.top:8000/e.xml",陕西五套公共
+http://112.46.85.60:8009/hls/22/index.m3u8
+#EXTINF:-1 group-title="西北五省频道" tvg-name="甘肃公共" tvg-logo="http://175.178.182.213/tb/甘肃公共.png" epg-url="http://epg.51zmt.top:8000/e.xml",甘肃公共
+http://61.178.227.57:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="西北五省频道" tvg-name="甘肃都市" tvg-logo="http://175.178.182.213/tb/甘肃都市.png" epg-url="http://epg.51zmt.top:8000/e.xml",甘肃都市
+http://61.178.227.57:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="西北五省频道" tvg-name="甘肃文化" tvg-logo="http://175.178.182.213/tb/甘肃文化.png" epg-url="http://epg.51zmt.top:8000/e.xml",甘肃文化
+http://61.178.227.57:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="西北五省频道" tvg-name="甘肃文化" tvg-logo="http://175.178.182.213/tb/甘肃文化.png" epg-url="http://epg.51zmt.top:8000/e.xml",甘肃文化
+http://221.7.49.226:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="西北五省频道" tvg-name="甘肃少儿" tvg-logo="http://175.178.182.213/tb/甘肃少儿.png" epg-url="http://epg.51zmt.top:8000/e.xml",甘肃少儿
+http://61.178.227.57:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="西北五省频道" tvg-name="玛纳斯综合" tvg-logo="http://175.178.182.213/tb/玛纳斯综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",玛纳斯综合
+http://120.70.60.179:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="西北五省频道" tvg-name="玛纳斯综合" tvg-logo="http://175.178.182.213/tb/玛纳斯综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",玛纳斯综合
+http://120.70.60.179:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="西北五省频道" tvg-name="新疆卫视-4" tvg-logo="http://175.178.182.213/tb/新疆卫视-4.png" epg-url="http://epg.51zmt.top:8000/e.xml",新疆卫视-4
+http://222.80.186.57:808/hls/60/index.m3u8
+#EXTINF:-1 group-title="西北五省频道" tvg-name="新疆卫视-6" tvg-logo="http://175.178.182.213/tb/新疆卫视-6.png" epg-url="http://epg.51zmt.top:8000/e.xml",新疆卫视-6
+http://222.80.186.57:808/hls/62/index.m3u8
+#EXTINF:-1 group-title="西北五省频道" tvg-name="新疆卫视-7" tvg-logo="http://175.178.182.213/tb/新疆卫视-7.png" epg-url="http://epg.51zmt.top:8000/e.xml",新疆卫视-7
+http://222.80.186.57:808/hls/64/index.m3u8
+#EXTINF:-1 group-title="西北五省频道" tvg-name="青海经视" tvg-logo="http://175.178.182.213/tb/青海经视.png" epg-url="http://epg.51zmt.top:8000/e.xml",青海经视
+http://221.207.6.29:808/hls/23/index.m3u8
 #EXTINF:-1 group-title="西北五省频道" tvg-name="嘉峪关综合" tvg-logo="http://175.178.182.213/tb/嘉峪关综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",嘉峪关综合
 http://play.kankanlive.com/live/1720583434627241.m3u8
 #EXTINF:-1 group-title="西北五省频道" tvg-name="天祝综合" tvg-logo="http://175.178.182.213/tb/天祝综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",天祝综合
