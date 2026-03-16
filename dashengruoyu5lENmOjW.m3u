@@ -1763,6 +1763,118 @@ http://114.243.168.34:8888/rtp/239.3.1.122:8160
 http://180.112.58.55:8800/rtp/239.49.8.149:6000
 #EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视" tvg-logo="http://175.178.182.213/tb/重庆卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",重庆卫视
 http://59.175.154.178:8188/rtp/239.69.1.149:10530
+#EXTINF:-1 group-title="GAT频道" tvg-name="ASTROAEC" tvg-logo="http://175.178.182.213/tb/ASTROAEC.png" epg-url="http://epg.51zmt.top:8000/e.xml",ASTROAEC
+http://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 group-title="GAT频道" tvg-name="ASTROAOD" tvg-logo="http://175.178.182.213/tb/ASTROAOD.png" epg-url="http://epg.51zmt.top:8000/e.xml",ASTROAOD
+http://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 group-title="GAT频道" tvg-name="ASTRO欢喜台" tvg-logo="http://175.178.182.213/tb/ASTRO欢喜台.png" epg-url="http://epg.51zmt.top:8000/e.xml",ASTRO欢喜台
+http://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 group-title="GAT频道" tvg-name="HUB都会台" tvg-logo="http://175.178.182.213/tb/HUB都会台.png" epg-url="http://epg.51zmt.top:8000/e.xml",HUB都会台
+http://rihou.cc:555/tv/hktv%2Fbtw85635
+#EXTINF:-1 group-title="GAT频道" tvg-name="HUB如意台" tvg-logo="http://175.178.182.213/tb/HUB如意台.png" epg-url="http://epg.51zmt.top:8000/e.xml",HUB如意台
+http://rihou.cc:555/tv/hktv%2Ftbbhubjy56
+#EXTINF:-1 group-title="GAT频道" tvg-name="HUB娱家台" tvg-logo="http://175.178.182.213/tb/HUB娱家台.png" epg-url="http://epg.51zmt.top:8000/e.xml",HUB娱家台
+http://rihou.cc:555/tv/hktv%2Ftb19tvbzt56
+#EXTINF:-1 group-title="GAT频道" tvg-name="IQIYI" tvg-logo="http://175.178.182.213/tb/IQIYI.png" epg-url="http://epg.51zmt.top:8000/e.xml",IQIYI
+http://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 group-title="GAT频道" tvg-name="NOW爆谷" tvg-logo="http://175.178.182.213/tb/NOW爆谷.png" epg-url="http://epg.51zmt.top:8000/e.xml",NOW爆谷
+http://rihou.cc:555/tv/hktv%2Ftb19nowbg56
+#EXTINF:-1 group-title="GAT频道" tvg-name="NOW星影" tvg-logo="http://175.178.182.213/tb/NOW星影.png" epg-url="http://epg.51zmt.top:8000/e.xml",NOW星影
+http://rihou.cc:555/tv/hktv%2Ftb19nowxy56
+#EXTINF:-1 group-title="GAT频道" tvg-name="TVB Plus" tvg-logo="http://175.178.182.213/tb/TVB Plus.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB Plus
+http://74.91.26.218:82/live/j2.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="TVB PLUS" tvg-logo="http://175.178.182.213/tb/TVB PLUS.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB PLUS
+http://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 group-title="GAT频道" tvg-name="TVB plus备" tvg-logo="http://175.178.182.213/tb/TVB plus备.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB plus备
+https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+#EXTINF:-1 group-title="GAT频道" tvg-name="TVB星河" tvg-logo="http://175.178.182.213/tb/TVB星河.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB星河
+http://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 group-title="GAT频道" tvg-name="TVB星河" tvg-logo="http://175.178.182.213/tb/TVB星河.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB星河
+http://r.jdshipin.com/sXuuD
+#EXTINF:-1 group-title="GAT频道" tvg-name="TVB星河" tvg-logo="http://175.178.182.213/tb/TVB星河.png" epg-url="http://epg.51zmt.top:8000/e.xml",TVB星河
+https://cdn10.163189.xyz/stream/163189/xinghe/
+#EXTINF:-1 group-title="GAT频道" tvg-name="VIUTV" tvg-logo="http://175.178.182.213/tb/VIUTV.png" epg-url="http://epg.51zmt.top:8000/e.xml",VIUTV
+https://cdn10.163189.xyz/stream/163189/viu/
+#EXTINF:-1 group-title="GAT频道" tvg-name="VIUTVSIX" tvg-logo="http://175.178.182.213/tb/VIUTVSIX.png" epg-url="http://epg.51zmt.top:8000/e.xml",VIUTVSIX
+https://cdn10.163189.xyz/stream/163189/viu6/
+#EXTINF:-1 group-title="GAT频道" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/翡翠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",翡翠台
+http://74.91.26.218:82/live/jade.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/翡翠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 group-title="GAT频道" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/翡翠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 group-title="GAT频道" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/翡翠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",翡翠台
+http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 group-title="GAT频道" tvg-name="翡翠台4K" tvg-logo="http://175.178.182.213/tb/翡翠台4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",翡翠台4K
+http://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 group-title="GAT频道" tvg-name="凤凰中文" tvg-logo="http://175.178.182.213/tb/凤凰中文.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰中文
+http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+#EXTINF:-1 group-title="GAT频道" tvg-name="凤凰中文" tvg-logo="http://175.178.182.213/tb/凤凰中文.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰中文
+http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+#EXTINF:-1 group-title="GAT频道" tvg-name="凤凰香港" tvg-logo="http://175.178.182.213/tb/凤凰香港.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰香港
+http://j.s.bkpcp.top/js/fhxg
+#EXTINF:-1 group-title="GAT频道" tvg-name="凤凰中文" tvg-logo="http://175.178.182.213/tb/凤凰中文.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰中文
+http://j.s.bkpcp.top/js/fhzw
+#EXTINF:-1 group-title="GAT频道" tvg-name="公视" tvg-logo="http://175.178.182.213/tb/公视.png" epg-url="http://epg.51zmt.top:8000/e.xml",公视
+http://74.91.26.218:82/live/pts.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="公视" tvg-logo="http://175.178.182.213/tb/公视.png" epg-url="http://epg.51zmt.top:8000/e.xml",公视
+http://ip1.xiaomidadi.cn:8088/live/NiyUTyfIW1axBJp2/hls.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="公视台语台" tvg-logo="http://175.178.182.213/tb/公视台语台.png" epg-url="http://epg.51zmt.top:8000/e.xml",公视台语台
+http://74.91.26.218:82/live/ptsty.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="华视" tvg-logo="http://175.178.182.213/tb/华视.png" epg-url="http://epg.51zmt.top:8000/e.xml",华视
+http://74.91.26.218:82/live/cts.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="华视教育体育文化" tvg-logo="http://175.178.182.213/tb/华视教育体育文化.png" epg-url="http://epg.51zmt.top:8000/e.xml",华视教育体育文化
+http://74.91.26.218:82/live/ctsjy.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="华视新闻资讯" tvg-logo="http://175.178.182.213/tb/华视新闻资讯.png" epg-url="http://epg.51zmt.top:8000/e.xml",华视新闻资讯
+http://74.91.26.218:82/live/ctsnews.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="金光布袋戏" tvg-logo="http://175.178.182.213/tb/金光布袋戏.png" epg-url="http://epg.51zmt.top:8000/e.xml",金光布袋戏
+http://o11.163189.xyz/stream/live/jgbdx/
+#EXTINF:-1 group-title="GAT频道" tvg-name="民视" tvg-logo="http://175.178.182.213/tb/民视.png" epg-url="http://epg.51zmt.top:8000/e.xml",民视
+http://74.91.26.218:82/live/ftv.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="民视第一台" tvg-logo="http://175.178.182.213/tb/民视第一台.png" epg-url="http://epg.51zmt.top:8000/e.xml",民视第一台
+http://74.91.26.218:82/live/ftvdy.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="民视台湾" tvg-logo="http://175.178.182.213/tb/民视台湾.png" epg-url="http://epg.51zmt.top:8000/e.xml",民视台湾
+http://ip1.xiaomidadi.cn:8088/live/JLXbovrAXvVvGxtw/hls.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="民视台湾台" tvg-logo="http://175.178.182.213/tb/民视台湾台.png" epg-url="http://epg.51zmt.top:8000/e.xml",民视台湾台
+http://74.91.26.218:82/live/ftvtw.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="民视新闻台" tvg-logo="http://175.178.182.213/tb/民视新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",民视新闻台
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="明珠台" tvg-logo="http://175.178.182.213/tb/明珠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",明珠台
+http://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 group-title="GAT频道" tvg-name="千禧经典台" tvg-logo="http://175.178.182.213/tb/千禧经典台.png" epg-url="http://epg.51zmt.top:8000/e.xml",千禧经典台
+http://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 group-title="GAT频道" tvg-name="台视" tvg-logo="http://175.178.182.213/tb/台视.png" epg-url="http://epg.51zmt.top:8000/e.xml",台视
+http://74.91.26.218:82/live/ttv.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="台视财经" tvg-logo="http://175.178.182.213/tb/台视财经.png" epg-url="http://epg.51zmt.top:8000/e.xml",台视财经
+http://74.91.26.218:82/live/ttvcj.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="台视新闻" tvg-logo="http://175.178.182.213/tb/台视新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",台视新闻
+http://74.91.26.218:82/live/ttvnews.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="台视综合" tvg-logo="http://175.178.182.213/tb/台视综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",台视综合
+http://74.91.26.218:82/live/ttvzh.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="天映频道" tvg-logo="http://175.178.182.213/tb/天映频道.png" epg-url="http://epg.51zmt.top:8000/e.xml",天映频道
+http://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 group-title="GAT频道" tvg-name="无线新闻台" tvg-logo="http://175.178.182.213/tb/无线新闻台.png" epg-url="http://epg.51zmt.top:8000/e.xml",无线新闻台
+http://74.91.26.218:82/live/inews.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="香港C+" tvg-logo="http://175.178.182.213/tb/香港C+.png" epg-url="http://epg.51zmt.top:8000/e.xml",香港C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="小公视" tvg-logo="http://175.178.182.213/tb/小公视.png" epg-url="http://epg.51zmt.top:8000/e.xml",小公视
+http://74.91.26.218:82/live/ptsse.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="星河频道" tvg-logo="http://175.178.182.213/tb/星河频道.png" epg-url="http://epg.51zmt.top:8000/e.xml",星河频道
+http://tl.061833.xyz/tl/null-7
+#EXTINF:-1 group-title="GAT频道" tvg-name="中视" tvg-logo="http://175.178.182.213/tb/中视.png" epg-url="http://epg.51zmt.top:8000/e.xml",中视
+http://74.91.26.218:82/live/ctv.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="中视" tvg-logo="http://175.178.182.213/tb/中视.png" epg-url="http://epg.51zmt.top:8000/e.xml",中视
+http://ip1.xiaomidadi.cn:8088/live/7Ik9YzD3kqxocgfU/hls.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="中视经典" tvg-logo="http://175.178.182.213/tb/中视经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",中视经典
+http://74.91.26.218:82/live/ctvjd.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="中视菁采" tvg-logo="http://175.178.182.213/tb/中视菁采.png" epg-url="http://epg.51zmt.top:8000/e.xml",中视菁采
+http://74.91.26.218:82/live/ctvjc.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="中视新闻" tvg-logo="http://175.178.182.213/tb/中视新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",中视新闻
+http://74.91.26.218:82/live/ctvnews.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="中天亚洲" tvg-logo="http://175.178.182.213/tb/中天亚洲.png" epg-url="http://epg.51zmt.top:8000/e.xml",中天亚洲
+http://ip1.xiaomidadi.cn:8088/live/dhC7oV8LI6lLcZUT/hls.m3u8
+#EXTINF:-1 group-title="GAT频道" tvg-name="中天综合" tvg-logo="http://175.178.182.213/tb/中天综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",中天综合
+http://ip1.xiaomidadi.cn:8088/live/zvYTOOMDQyw276Sd/hls.m3u8
 #EXTINF:-1 group-title="GAT频道" tvg-name="88跑马台" tvg-logo="http://175.178.182.213/tb/88跑马台.png" epg-url="http://epg.51zmt.top:8000/e.xml",88跑马台
 http://pull-vivek.speedws.com/live/aaapm18.flv
 #EXTINF:-1 group-title="GAT频道" tvg-name="CH5" tvg-logo="http://175.178.182.213/tb/CH5.png" epg-url="http://epg.51zmt.top:8000/e.xml",CH5
