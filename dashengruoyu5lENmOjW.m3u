@@ -2321,7 +2321,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=48
 http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 group-title="电影频道" tvg-name="光影" tvg-logo="http://175.178.182.213/tb/光影.png" epg-url="http://epg.51zmt.top:8000/e.xml",光影
 http://114.243.168.34:8888/rtp/239.3.1.84:4120
-#EXTINF:-1 tvg-name="4K频道" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
+#EXTINF:-1 tvg-name="4K频道" tvg-name="CCTV4K" tvg-logo="http://175.178.182.213/tb/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
 http://67.220.71.199:2347/livehttpplay?channel_id=30029
 #EXTINF:-1 group-title="4K频道" tvg-name="爱上4K" tvg-logo="http://175.178.182.213/tb/爱上4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",爱上4K
 http://114.243.168.34:8888/rtp/239.3.1.236:2000
