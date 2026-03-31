@@ -1737,4 +1737,82 @@ http://116.237.61.115:4022/rtp/233.18.204.58:5140
 http://113.95.132.166:30001/rtp/239.77.1.122:5146
 #EXTINF:-1 group-title="其他频道" tvg-name="中国交通" tvg-logo="http://175.178.182.213/tb/中国交通.png" epg-url="http://epg.51zmt.top:8000/e.xml",中国交通
 http://114.243.168.34:8888/rtp/239.3.1.188:8001
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视界" tvg-logo="http://175.178.182.213/tb/咪视界.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视界
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011522
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视界1" tvg-logo="http://175.178.182.213/tb/咪视界1.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视界1
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005308
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通2" tvg-logo="http://175.178.182.213/tb/咪视通2.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通2
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000005969
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通3" tvg-logo="http://175.178.182.213/tb/咪视通3.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通3
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000007218
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通4" tvg-logo="http://175.178.182.213/tb/咪视通4.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通4
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008001
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通5" tvg-logo="http://175.178.182.213/tb/咪视通5.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通5
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通6" tvg-logo="http://175.178.182.213/tb/咪视通6.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通6
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通7" tvg-logo="http://175.178.182.213/tb/咪视通7.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通7
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通8" tvg-logo="http://175.178.182.213/tb/咪视通8.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通8
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通9" tvg-logo="http://175.178.182.213/tb/咪视通9.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通9
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000028638
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通10" tvg-logo="http://175.178.182.213/tb/咪视通10.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通10
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000031494
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通11" tvg-logo="http://175.178.182.213/tb/咪视通11.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通11
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005837
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通12" tvg-logo="http://175.178.182.213/tb/咪视通12.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通12
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011518
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通13" tvg-logo="http://175.178.182.213/tb/咪视通13.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通13
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011519
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通14" tvg-logo="http://175.178.182.213/tb/咪视通14.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通14
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011520
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通15" tvg-logo="http://175.178.182.213/tb/咪视通15.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通15
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011521
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通18" tvg-logo="http://175.178.182.213/tb/咪视通18.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通18
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011524
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通22" tvg-logo="http://175.178.182.213/tb/咪视通22.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通22
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011530
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通23" tvg-logo="http://175.178.182.213/tb/咪视通23.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通23
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011531
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通24" tvg-logo="http://175.178.182.213/tb/咪视通24.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通24
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000000097
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通25" tvg-logo="http://175.178.182.213/tb/咪视通25.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通25
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002019
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通26" tvg-logo="http://175.178.182.213/tb/咪视通26.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通26
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000002809
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通27" tvg-logo="http://175.178.182.213/tb/咪视通27.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通27
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000003915
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通28" tvg-logo="http://175.178.182.213/tb/咪视通28.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通28
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000004193
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通29" tvg-logo="http://175.178.182.213/tb/咪视通29.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通29
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006077
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通30" tvg-logo="http://175.178.182.213/tb/咪视通30.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通30
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000006658
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通31" tvg-logo="http://175.178.182.213/tb/咪视通31.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通31
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000009788
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通32" tvg-logo="http://175.178.182.213/tb/咪视通32.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通32
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000010833
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通33" tvg-logo="http://175.178.182.213/tb/咪视通33.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通33
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000011297
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通35" tvg-logo="http://175.178.182.213/tb/咪视通35.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通35
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012558
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通36" tvg-logo="http://175.178.182.213/tb/咪视通36.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通36
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000012616
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通37" tvg-logo="http://175.178.182.213/tb/咪视通37.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通37
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015470
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通38" tvg-logo="http://175.178.182.213/tb/咪视通38.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通38
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000015560
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通40" tvg-logo="http://175.178.182.213/tb/咪视通40.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通40
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000019839
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通41" tvg-logo="http://175.178.182.213/tb/咪视通41.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通41
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000021904
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通42" tvg-logo="http://175.178.182.213/tb/咪视通42.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通42
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000023434
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通43" tvg-logo="http://175.178.182.213/tb/咪视通43.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通43
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000025380
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通44" tvg-logo="http://175.178.182.213/tb/咪视通44.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通44
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691
+#EXTINF:-1 group-title="咪视界" tvg-name="咪视通45" tvg-logo="http://175.178.182.213/tb/咪视通45.png" epg-url="http://epg.51zmt.top:8000/e.xml",咪视通45
+http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669
 
