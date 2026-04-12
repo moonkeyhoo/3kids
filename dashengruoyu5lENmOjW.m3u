@@ -312,305 +312,45 @@ http://61.163.181.78:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://175.178.182.213/tb/CCTV15.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV15
 http://183.223.157.33:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://go.bkpcp.top/mg/cctv16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://j.s.bkpcp.top/jj/cctv16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://t.061899.xyz/tl/tl.php?id=cctv16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ur5nnx&tk=FgM0vQMejxvG
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://101.35.240.114:88/live.php?id=CCTV16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://107.150.60.122/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=yu&mode=1&
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=yu&mode=1&
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://69.30.246.194/live/cctv16.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://j.s.bkpcp.top/jj/cctv16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://t.061899.xyz/tl/tl.php?id=cctv16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://m.061899.xyz/mg/cctv16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://38.75.136.137:98/gslb/dsdqca/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://38.75.136.137:98/gslb/dsdqca/chcjtyyhd.m3u8?auth=test20251009
+http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
 http://221.194.141.41:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
 http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://121.19.134.216:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+http://107.150.60.122/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
+http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://183.11.239.36:808/hls/169/index.m3u8
+http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://115.171.216.58:4000/rtp/225.1.8.189:8002
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://183.129.255.66:8480/hls/17/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://go.bkpcp.top/mg/cctv16
+https://live.264788.xyz/channel/cctv16?streamid=d1ef1cb15a9781aecd1fa91d03ab41ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
 http://www.lizhinas.top:10086/rtp/239.252.220.237:5140
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://miwifi.dbus.io:8622/rtp/239.3.1.184:8001
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://iptv.101465.xyz:8888/rtp/239.3.1.184:8001
+https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://ydl.yueyaoxian.top:8686/rtp/239.3.1.184:8001
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://ikuai.ipddns.top:8888/rtp/239.3.1.184:8001
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://119.91.7.169:2026/dszb/IPTV.php?id=CCTV16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=IHVXJX&tk=IaRTZBNZkJti
+http://115.171.216.58:4000/rtp/225.1.8.189:8002
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
 http://123.118.56.249:8686/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
 http://116.2.172.91:4010/rtp/232.0.0.182:1234
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://120.87.19.109:80/PLTV/88888973/224/3221226645/10000100000000060000000001772867_0.smil/01.m3u8?fmt=ts2hls
+http://121.19.134.216:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
+http://miwifi.dbus.io:8622/rtp/239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2605:6400:20:e33:19c6:b2fe:332b:d62d]:9090/live/1617.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://111.56.90.5/000000000000/5000000008000023253/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://223.111.150.99:6673/tv/mg1.php?id=CCTV16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://www.ikun.hn.cn:9981/stream/channelid/1315436335?profile=pass
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-https://live.264788.xyz/channel/cctv16?streamid=d1ef1cb15a9781aecd1fa91d03ab41ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-https://live.264788.xyz/channel/cctv16?streamid=8eb5a3dee64a6f1b00b9eb5c7cd2573a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://183.11.239.36:808/hls/169/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
 https://live.264788.xyz/channel/cctv16?streamid=d8dbfb7e9b4e78fc73baf57e7b53ced6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ecd19d745e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3u8$LR•IPV6『线路1』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$LR•IPV6『线路2』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8$LR•IPV6『线路3』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•IPV6『线路4』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8?$LR•IPV6『线路5』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8?$LR•IPV6『线路6』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•IPV6『线路7』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•IPV6『线路8』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/index.m3u8$LR•IPV6『线路9』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•IPV6『线路10』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$LR•IPV6『线路11』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8$LR•IPV6『线路12』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8$LR•IPV6『线路13』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•IPV6『线路14』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$LR•IPV4『线路15』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://lt.hxtre.com:35455/gaoma/cctv16.m3u8$LR•IPV4『线路16』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://36.105.100.208:35455/gaoma/cctv16.m3u8$LR•IPV4『线路17』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8$LR•IPV4『线路18』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8$LR•IPV4『线路19』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://220.164.192.48:50085/tsfile/live/0017_1.m3u8$LR•IPV4『线路20』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8$LR•IPV4『线路21』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://182.92.109.190:1668/migu720/migu720.php?id=cctv16$LR•IPV4『线路22』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://kxrj.site:64325/86/mg.php?id=cctv16$LR•IPV4『线路23』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://dd.ddzb.fun/php/migu.php?id=cctv16$LR•IPV4『线路24』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://183.185.105.197:8082/rtp/226.0.2.169:9264$LR•IPV4『线路25』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://118.249.23.16:4022/udp/239.76.246.98:1234$LR•IPV4『线路26』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://118.249.23.16:4022/udp/239.76.253.98:9000$LR•IPV4『线路27』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$LR•IPV4『线路28』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://171.108.239.80:8181/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路29』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://171.108.239.98:8181/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路30』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://dms.yryyj.site:8188/udp/239.76.254.200:9000$LR•IPV4『线路31』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://www.unraidd.top:8282/udp/239.29.1.146:5000$LR•IPV4『线路32』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://171.108.239.79:8181/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路33』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://171.108.239.99:8181/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路34』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://171.108.239.99:8181/tsfile/live/1042_1.m3u8?key=txiptv$LR•IPV4『线路35』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://222.241.154.37:9901/tsfile/live/23016_1.m3u8?key=txiptv$LR•IPV4『线路36』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://114.252.229.26:9876/rtp/239.3.1.184:8001$LR•IPV4『线路37』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://58.17.48.228:808/hls/25/index.m3u8$LR•IPV4『线路38』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://dms.yryyj.site:8188/udp/239.76.246.98:1234$LR•IPV4『线路39』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://218.241.192.50:8808/rtp/239.3.1.184:8001$LR•IPV4『线路40』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://alvin.ergotron.net:8000/udp/239.77.1.76:5146$LR•IPV4『线路41』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://webmail.axxe.top:4022/rtp/239.3.1.184:8001$LR•IPV4『线路42』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://www.zzlag.top:9087/tsfile/live/1000_1.m3u8?key=txiptv$LR•IPV4『线路43』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$LR•IPV4『线路44』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$LR•IPV4『线路45』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?$LR•IPV4『线路46』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://117.27.190.42:9998/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路47』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://117.27.190.42:9998/tsfile/live/23249_1.m3u8?key=txiptv$LR•IPV4『线路48』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://220.164.192.48:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4『线路49』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$LR•IPV4『线路50』
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://goo.bkpcp.top/mg/cctv16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://itv.iptv1688.top:2016/itv.php?id=CCTV16
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-https://tv.iill.top/migu/cctv16$ok影视
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://home.kuaidi521.com:35455/bptv/10000100000000050000000004972604.m3u8$肥羊home
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://3501776.xyz:35455/bptv/10000100000000050000000004972604.m3u8$肥羊3501776
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://www.douzhicloud.site:35455/bptv/10000100000000050000000004972604.m3u8$肥羊www
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://36.105.100.208:35455/bptv/10000100000000050000000004972604.m3u8$肥羊36.105
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://223.166.74.79:10030/bptv/10000100000000050000000004972604.m3u8$肥羊223.166
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://59.174.90.205:5555/bptv/10000100000000050000000004972604.m3u8$肥羊59.174
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://114.32.59.86:7000/bptv/10000100000000050000000004972604.m3u8$肥羊114.32
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://lt.hxtre.com:35455/bptv/10000100000000050000000004972604.m3u8$肥羊lt.hxtre
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://yemingjkl.x3322.net:35455/bptv/10000100000000050000000004972604.m3u8$肥羊yemingjkl
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://cc.95279527.space:35455/bptv/10000100000000050000000004972604.m3u8$肥羊cc.95279527
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://test.smart-more.cn:35455/bptv/10000100000000050000000004972604.m3u8$肥羊test.smart
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://hk-cc.960612.xyz:35455/bptv/10000100000000050000000004972604.m3u8$肥羊hk-cc
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://lt.hxtre.com:35455/bptv/10000100000000050000000004972604.m3u8$肥羊lt.hxtre
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://missyao.com:35455/bptv/10000100000000050000000004972604.m3u8$肥羊missyao
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://zjzcf.synology.me:35455/bptv/10000100000000050000000004972604.m3u8$肥羊zjzcf
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://xiaoya.crccxw.top:35455/bptv/10000100000000050000000004972604.m3u8$肥羊xiaoya
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://vip.lqcc.xyz:35455/bptv/10000100000000050000000004972604.m3u8$肥羊vip.lqcc
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
 http://gmxw.7766.org:808/hls/169/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://119.125.134.185:9902/tsfile/live/1008_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://113.236.31.149:9901/tsfile/live/1027_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://163.177.122.71:9901/tsfile/live/1035_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://113.236.17.12:9901/tsfile/live/1027_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://58.221.214.82:9901/tsfile/live/0002_2.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://113.15.185.150:8181/tsfile/live/1021_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://219.159.194.18:8181/tsfile/live/1021_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://117.190.144.101:1111/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://117.27.190.42:9998/tsfile/live/23249_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://222.217.230.192:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://175.20.235.74:9901/tsfile/live/1015_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://222.217.230.195:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://61.243.161.199:9901/tsfile/live/1027_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://111.160.17.2:59901/tsfile/live/0001_17.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://171.110.42.238:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://219.159.194.213:8181/tsfile/live/1021_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://113.15.184.196:8181/tsfile/live/1021_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://124.231.212.230:9999/tsfile/live/1084_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://14.204.53.128:9901/tsfile/live/0016_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://171.110.42.239:8181/tsfile/live/1000_1.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://220.164.192.48:50085/tsfile/live/0017_1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="http://175.178.182.213/tb/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV17
 http://59.174.117.160:7777/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="http://175.178.182.213/tb/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV17
