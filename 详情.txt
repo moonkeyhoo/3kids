@@ -1,15 +1,15 @@
    品名                    关键词
-kongmeng-X5     3820
-tianguang-X5      tgyy
-yingshi                 0523
-ku9                       1860
-tianwei                 twys
-YSC                      6141
-webview              1506
-huoxingTV           1052
-mytv1014            1830
-chengfeng           1578
-ningmeng TV      1110
+kongmeng-X5                3820
+tianguang-X5               tgyy
+yingshi                    0523
+ku9                        1860
+tianwei                    twys
+YSC                        6141
+webview                    1506
+huoxingTV                  1052
+mytv1014                   1830
+chengfeng                  1578
+ningmeng TV                1110
 
 直播地址：
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/iptv-api/refs/heads/master/output/result.m3u
