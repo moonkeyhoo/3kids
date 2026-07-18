@@ -11,11 +11,17 @@ mytv1014                   1830
 chengfeng                  1578
 ningmeng TV                1110
 
+
+本期关键词：2042
+酷玖最新版py64位
+
+
 直播地址：
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/iptv-api/refs/heads/master/output/result.m3u
 https://4tv.0186.ccwu.cc 
 https://zu.0186.ccwu.cc/abc123      
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u          【必须支持X5格式播放器】
+
 点播地址：
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt
 https://0186box.0186.ccwu.cc 
