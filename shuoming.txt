@@ -15,16 +15,23 @@ NEWBOX          1530
 
 直播地址：
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/iptv-api/refs/heads/master/output/result.m3u
+
 https://4tv.0186.ccwu.cc 
-https://zu.0186.ccwu.cc/xymm                    
+
+https://zu.0186.ccwu.cc/xymm     
+
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u          【必须支持X5格式播放器】
 
 点播地址：【影视，TVBOX等软件，填入设置第一行即可】
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt
+
 https://0186box.0186.ccwu.cc           【影视类填入第一行，搜索为主，原本是用于采集站】
+
 https://www.xn--rgv465a.top/pro.json   【网友无界制作并分享，特此鸣谢😂😂😂】
-https://raw.giteeusercontent.com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json                        
-【网友御龙制作并分享，特此鸣谢😂😂😂】
+
+https://raw.giteeusercontent.com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json   【网友御龙制作并分享，特此鸣谢😂😂😂】  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 
 
