@@ -11,16 +11,19 @@ mytv1014        1830
 乘风TV          1578
 柠檬TV          1110
 NEWBOX          1530
+电视直播         0329
+星河TV           2060
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-直播地址：
-https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/iptv-api/refs/heads/master/output/result.m3u
+直播地址：【所有可用网址仅按以下提供的为准，消失的必然是不可用的】
 
 https://4tv.0186.ccwu.cc 
 
 https://zu.0186.ccwu.cc/xymm     
 
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u          【必须支持X5格式播放器】
+
+https://xhs.0186.ccwu.cc/xhslist.m3u                 【新增：世界杯4K回放，有热爱的可以抽空回顾一下，电视尽量用系统解码，否则不流畅】
 
 点播地址：【影视，TVBOX等软件，填入设置第一行即可】
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt
@@ -32,6 +35,7 @@ https://www.xn--rgv465a.top/pro.json   【网友无界制作并分享，特此�
 https://raw.giteeusercontent.com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json   【网友御龙制作并分享，特此鸣谢😂😂😂】  
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+备注：最近网上有个极速央视+几个地方频道项目，本地部署的确是秒播，换台贼快，但是经过CF后，有点卡顿，实际效果不好，就不分享了。其实源用的还是X5那套节目源。喜欢稳定的还是用千寻、webview、mytv1014等自带源的软件。
 
 
 
