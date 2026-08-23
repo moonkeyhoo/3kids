@@ -36,6 +36,8 @@ https://raw.giteeusercontent.com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json �
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 备注：最近网上有个极速央视+几个地方频道项目，本地部署的确是秒播，换台贼快，但是经过CF后，有点卡顿，实际效果不好，就不分享了。其实源用的还是X5那套节目源。喜欢稳定的还是用千寻、webview、mytv1014等自带源的软件。
-
+洛雪手机版：下载:https://moonkey.lanzoub.com/io4XV43er5cb 密码:5kf4
+音源下载:https://moonkey.lanzoub.com/iBKKT43erhqh密码:ejyn
+在线音源：https://ghfast.top/https:// raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/%5B独家音源%5D v4.0.js
 
 
