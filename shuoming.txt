@@ -13,6 +13,8 @@ mytv1014        1830
 NEWBOX          1530
 电视直播         0329
 星河TV           2060
+webhometv       webhtv
+webview新版      0301
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 直播地址：【所有可用网址仅按以下提供的为准，消失的必然是不可用的】
@@ -21,22 +23,22 @@ https://4tv.0186.ccwu.cc 
 
 https://zu.0186.ccwu.cc/xymm     
 
-https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u          【必须支持X5格式播放器】
+https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   【必须支持X5格式播放器】
 
-https://xhs.0186.ccwu.cc/xhslist.m3u                 【新增：世界杯4K回放，有热爱的可以抽空回顾一下，电视尽量用系统解码，否则不流畅】
+https://xhs.0186.ccwu.cc/xhslist.m3u      【新增：世界杯4K回放，有热爱足球的可以回顾一下，电视尽量用系统解码4K，否则不流畅】
 
-https://mg.0186.ccwu.cc/dashengruoyu                 【自用咪咕，分享使用】
+https://mg.0186.ccwu.cc/dashengruoyu      【自用咪咕，分享使用。近日无法访问，已经找到原因，修复了】卡顿
 
-https://5ports.0186.ccwu.cc/live.m3u                 新：【足球/篮球/电竞，直播等。酷玖/影视/whtv均已测速成功。】
+https://5ports.0186.ccwu.cc/live.m3u       【足球/篮球/电竞，直播等。酷玖/影视/whtv均已测速成功，不定时更换比赛内容】
 
 点播地址：【影视，TVBOX等软件，填入设置第一行即可】
-https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt
+https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt   【佛系更新，看到有意思的会加入】
 
-https://0186box.0186.ccwu.cc           【影视类填入第一行，搜索为主，原本是用于采集站】
+https://0186box.0186.ccwu.cc   【影视类填入第一行，搜索为主，画质达标，速度还行】
 
-https://www.xn--rgv465a.top/pro.json   【网友无界制作并分享，特此鸣谢😂😂😂】
+https://www.xn--rgv465a.top/pro.json 【网友无界制作并分享，佛系更新】
 
-https://raw.giteeusercontent.com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json   【网友御龙制作并分享，特此鸣谢😂😂😂】  
+https://raw.giteeusercontent.com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json   【网友御龙制作并分享，佛系更新】  
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
