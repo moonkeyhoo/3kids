@@ -15,16 +15,15 @@ NEWBOX          1530
 星河TV           2060
 webhometv       webhtv
 webview新版      0301
+voya            0530
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-直播地址：【所有可用网址仅按以下提供的为准，消失的必然是不可用的】
+直播地址：【zu地址已经失效并撤销】
 
-https://4tv.0186.ccwu.cc 
+https://4tv.0186.ccwu.cc     
 
-https://zu.0186.ccwu.cc/xymm     
-
-https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   【必须支持X5格式播放器】
+https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   
 
 https://xhs.0186.ccwu.cc/xhslist.m3u      【最近不对劲，有的可以看，有的不能看？？？】
 
@@ -33,13 +32,15 @@ https://mg.0186.ccwu.cc/dashengruoyu      【正常】
 https://5ports.0186.ccwu.cc/live.m3u       【不正常】
 
 点播地址：【影视，TVBOX等软件，填入设置第一行即可】
-https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt   【佛系更新，看到有意思的会加入】
+https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt   【好久未看，估计部分可看】
 
-https://0186box.0186.ccwu.cc   【影视类填入第一行，搜索为主，画质达标，速度还行】
+https://0186box.0186.ccwu.cc   【影视类填入第一行，对于zyt不通用】
 
 https://www.xn--rgv465a.top/pro.json 【网友无界制作并分享，佛系更新】
 
 https://raw.giteeusercontent.com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json   【网友御龙制作并分享，佛系更新】  
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-zytv需要的订阅源链接：
+X-X-X-X-X-X:
+zytv需要的订阅源链接：https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/LibreTV.json
+直播自行填入上面的直播地址，均已经测速正常,软件已经更新升级，支持点播+直播。
