@@ -21,7 +21,8 @@ voya            0530
 
 直播地址：【zu地址已经失效并撤销】
 
-https://4tv.0186.ccwu.cc     
+https://4tv.0186.ccwu.cc  
+备用：https://moonkeyhoo.github.io/iptv-api/result.txt
 
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   
 
