@@ -23,6 +23,7 @@ voya            0530
 
 https://4tv.0186.ccwu.cc  
 备用：https://moonkeyhoo.github.io/iptv-api/result.txt
+      https://moonkeyhoo.github.io/iptv-api/result.m3u
 
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   
 
