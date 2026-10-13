@@ -27,14 +27,14 @@ https://4tv.0186.ccwu.cc 
 
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   
 
-https://xhs.0186.ccwu.cc/xhslist.m3u      【最近不对劲，有的可以看，有的不能看？？？】
+https://xhs.0186.ccwu.cc/xhslist.m3u      【估计停止服务了】
 
 https://mg.0186.ccwu.cc/dashengruoyu      【正常】
 
-https://5ports.0186.ccwu.cc/live.m3u       【不正常】
+https://5ports.0186.ccwu.cc/live.m3u       【同上面世界杯回放】
 
 点播地址：【影视，TVBOX等软件，填入设置第一行即可】
-https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt   【好久未看，估计部分电影可看】
+https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt   【经过测试，98%可用】
 
 https://0186box.0186.ccwu.cc   【影视类填入第一行，对于zytv网站不可用】
 
