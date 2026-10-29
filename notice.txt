@@ -27,14 +27,22 @@ https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads
 
 https://mg.0186.ccwu.cc/dashengruoyu      【已经更新至1080p】
 
+https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt     【备用地址】
+
+https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/result.m3u     【本地搜索，不定期上传】
+
 https://xhs.0186.ccwu.cc/xhslist.m3u      【估计停止服务了】
 
 https://5ports.0186.ccwu.cc/live.m3u      【同上面世界杯回放】
 
  https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt  【直播地址，已经检测更新，影视类填入第二行】
 
-https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/result.m3u     【本地搜索，不定期上传】
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 点播地址：【影视，TVBOX等软件，填入设置第一行即可】
+
+https://9763.kstore.space/aowu.json      【嗷呜线路】
 
 https://0186box.0186.ccwu.cc   【影视类填入第一行，对于zytv网站不可用,只能单行添加vod】
 
@@ -43,6 +51,7 @@ https://www.xn--rgv465a.top/pro.json 【网友无界制作并分享，上班忙�
 https://raw.giteeusercontent.com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json   【网友御龙制作并分享，最近也忙于生活，疏于整理，改天联系督促更新】
 
 https://music.0186.ccwu.cc    【听歌网址，以前搞了5000首歌曲，大部分是FLAC，好久未新增，凑活听吧。用户名：guest  密码：123@567  网页打开后，右上角点击用户头像--Personal中更换语言】
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 X-X-X-X-X-X:
