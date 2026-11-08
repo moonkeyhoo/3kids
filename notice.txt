@@ -1,23 +1,24 @@
 公众号关键词往期如下：
 
- 品名         关键词
-空蒙云影-X5     3820
-天光云影-X5     tgyy
-影视            0523
-ku9             1860
-天微影视        twys
-影视仓          6141
-webview         1506
-火星TV          1052
-mytv1014        1830
-乘风TV          1578
-柠檬TV          1110
-NEWBOX          1530
-电视直播         0329
-星河TV           2060
-webhometv       webhtv
-webview新版      0301
-voya            0530
+ 品名         关键词       是否内置
+空蒙云影-X5     3820        空
+天光云影-X5     tgyy        空
+影视            0523        空
+ku9            1860         空
+天微影视        twys        空
+影视仓          6141        空
+webview         1506       内置
+火星TV          1052       内置
+mytv1014        1830       内置
+乘风TV          1578        内置
+柠檬TV          1110       内置
+NEWBOX          1530       空
+电视直播         0329       内置
+星河TV           2060       内置
+webhometv       webhtv     空
+webview新版      0301       内置
+voya            0530        空
+超级直播         3137        内置
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 github加速地址：
@@ -37,11 +38,10 @@ https://gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/hea
 
 https://xhs.0186.ccwu.cc/xhslist.m3u      【估计停止服务了】
 
-https://5ports.0186.ccwu.cc/live.m3u      【同上面世界杯回放】
+https://5ports.0186.ccwu.cc/live.m3u      【同上面世界杯回放】↑↑↑
 
 https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt  
 
-https://gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/result.m3u     【本地搜索，不定期上传】
 
 点播地址：【影视，TVBOX等软件，填入设置第一行即可】
 
@@ -53,7 +53,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/hea
 
 嗷呜线路：http://itv666.cc/aowu/config.webp
 
-自用线路：https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186box.json   【影视类填入第一行】
+自用线路：https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186box.json   
 
 网友分享：https://www.xn--rgv465a.top/pro.json 
 
