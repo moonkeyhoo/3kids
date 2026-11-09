@@ -21,65 +21,80 @@ voya            0530        空
 超级直播         3137        内置
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 github加速地址：
 
 https://gh.qninq.cn/
 https://ghfast.top/
 https://gh-proxy.com/
+以下地址，去掉汉字使用！！！以下地址，去掉汉字使用！！！以下地址，去掉汉字使用！！！
+以下地址，去掉汉字使用！！！以下地址，去掉汉字使用！！！以下地址，去掉汉字使用！！！
+以下地址，去掉汉字使用！！！以下地址，去掉汉字使用！！！以下地址，去掉汉字使用！！！
 
 直播地址：
-https://4tv.0186.ccwu.cc  
+https://所4tv.0186.ccwu.cc  
 
-https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   
+https://有ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   
 
-https://mg.0186.ccwu.cc/dashengruoyu      
+https:/资源mg.0186.ccwu.cc/dashengruoyu      
 
-https://gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt   【备用】
+https://均gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt   【备用】
 
-https://xhs.0186.ccwu.cc/xhslist.m3u      【估计停止服务了】
+https://来xhs.0186.ccwu.cc/xhslist.m3u      【估计停止服务了】
 
-https://5ports.0186.ccwu.cc/live.m3u      【同上面世界杯回放】↑↑↑
+https://5ports.0186自.ccwu.cc/live.m3u      【同上面世界杯回放】↑↑↑
 
-https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt  
+https://ghfast.top/网https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt  
 
 
 点播地址：【影视，TVBOX等软件，填入设置第一行即可】
 
-熵侦线路：https://15318.kstore.space/easytv.jpg
+熵侦线路：https://15318.络kstore.space/easytv.jpg
 
-饭太硬线路：http://www.饭太硬.cc/tv
+饭太硬线路：http://且www.饭太硬.cc/tv
 
-王二小线路：http://tvbox.xn--4kq62z5rby2qupq9ub.top/
+王二小线路：http://tvbox.xn--4kq62z5rby2qupq9ub.top/记
 
-嗷呜线路：http://itv666.cc/aowu/config.webp
+嗷呜线路：http://itv666.cc/勿aowu/config.webp
 
-自用线路：https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186box.json   
+自用线路：https://ghfast.top/https:用//raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186box.json   
 
-网友分享：https://www.xn--rgv465a.top/pro.json 
 
-网友分享：https://raw.giteeusercontent.com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json   
+网友分享：https://raw.giteeusercontent.于com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json   【征得同意的网友提供】
 
-https://music.0186.ccwu.cc    【听歌网址，以前搞了5000首歌曲，大部分是FLAC，好久未新增，凑活听吧。用户名：guest  密码：123@567  网页打开后，右上角点击用户头像--Personal中更换语言】
+https://music与.0186.ccwu.cc    【听歌网址，以前搞了5000首歌曲，大部分是FLAC，好久未新增，凑活听吧。用户名：guest  密码：123@567  网页打开后，右上角点击用户头像--Personal中更换语言】
 
-洛雪电脑版下载： https://github.com/lyswhut/lx-music-desktop/releases/tag/v2.12.6【官方】
-洛雪手机版下载： https://moonkey.lanzoub.com/io4XV43er5cb       密码:5kf4
-洛雪--音源下载： https://moonkey.lanzoub.com/b0hebqbaf          密码:39ld
+洛雪电脑版下载： https://github.com/lyswhut/商lx-music-desktop/releases/tag/v2.12.6【官方】
+洛雪手机版下载： https://moonkey.lanzoub.com业/io4XV43er5cb       密码:5kf4
+洛雪--音源下载： https://moonkey.lanzoub.com/使用b0hebqbaf          密码:39ld
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-https://zytv.0186.ccwu.cc网页配置：
+https://包括zytv.0186.ccwu.cc网页配置：
 
 zytv如果上面订阅源失败，可以单独添加下面API，3-5条足以，自己会检测在线速度:
 
-影视工厂：https://cj.lziapi.com/api.php/provide/vod/       【优】
-茅    台：https://caiji.maotaizy.cc/api.php/provide/vod    【优】
-豆    瓣：https://dbzy.tv/api.php/provide/vod              【优】
-天    堂：https://caiji.dyttzyapi.com/api.php/provide/vod  【优】
-量    子：https://cj.lziapi.com/api.php/provide/vod/       【优】
-非    凡：http://ffzy5.tv/api.php/provide/vod              【优】
-豪    华：https://hhzyapi.com/api.php/provide/vod/
-快    车：https://caiji.kuaichezy.org/api.php/provide/vod/
-新    浪：https://api.xinlangapi.com/xinlangapi.php/provide/vod/
-飘    零：https://p2100.net/api.php/provide/vod/
-速    播：https://subocaiji.com/api.php/provide/vod/
-无    尽：https://api.wujinapi.me/api.php/provide/vod/
+影视工厂：https://所有cj.lziapi.com/api.php/provide/vod/       【优】
+茅    台：https:/能供/caiji.maotaizy.cc/api.php/provide/vod    【优】
+豆    瓣：https://dbzy.tv/api.php给你/provide/vod              【优】
+天    堂：https://caiji.dyttzyapi.com免/api.php/provide/vod  【优】
+量    子：https://cj.lziapi.com/api.php费/provide/vod/       【优】
+非    凡：http://ffzy5.tv/api.php/provide/使用vod              【优】
+豪    华：https://hhzyapi.com/api.php/provide的所/vod/
+快    车：https://caiji.kuaichezy.org/api.php/有provide/vod/
+新    浪：https://api.xinlangapi均来.com/xinlangapi.php/provide/vod/
+飘    零：https://p2100.net/api.php/网页provide/vod/
+速    播：https://subocaiji.com/api.php/搜索provide/vod/
+无    尽：https://api.wujinapi.me内容/api.php/provide/vod/
+
+----------------------------------------------------------------------------------------------------------------------------------------------------掌上影院: https://zytv.0186.ccwu大.cc  
+访问密码：rs3000,zq1p.
+上面告示中有可以用的地址，自行填入，慢是有点慢，自己偷偷看吧。
+
+系统集散地： https://cloud.18圣9.cn若/web/share?code=3EniamZ3qeU3 
+（访问码：nlu5） 
+电脑小工具： https://鱼moonkey.lanzoub.com/b0hdts5qj 
+（访问码:1psn）
+
+【这个世界可能原本就是这样，只是把世界想得太好了，于是就有了举报，就有了平台删除，😂😂😂不能责怪任何人！！！
