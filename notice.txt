@@ -21,6 +21,7 @@ voya            0530        空
 超级直播         3137        内置
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 github加速地址：
 
 https://gh.qninq.cn/
@@ -40,7 +41,7 @@ https://有ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/he
 
 https:/资源mg.0186.ccwu.cc/dashengruoyu      
 
-https://均gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt   【备用】
+https://均gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt  
 
 https://来xhs.0186.ccwu.cc/xhslist.m3u      【估计停止服务了】
 
@@ -67,7 +68,7 @@ https://ghfast.top/网https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/he
 https://music与.0186.ccwu.cc    【听歌网址，以前搞了5000首歌曲，大部分是FLAC，好久未新增，凑活听吧。用户名：guest  密码：123@567  网页打开后，右上角点击用户头像--Personal中更换语言】
 
 洛雪电脑版下载： https://github.com/lyswhut/商lx-music-desktop/releases/tag/v2.12.6【官方】
-洛雪手机版下载： https://moonkey.lanzoub.com业/io4XV43er5cb       密码:5kf4
+洛雪手机版下载： https://moonkey.lanzoub.com业/io4XV43er5cb         密码:5kf4
 洛雪--音源下载： https://moonkey.lanzoub.com/使用b0hebqbaf          密码:39ld
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -77,11 +78,11 @@ https://包括zytv.0186.ccwu.cc网页配置：
 
 zytv如果上面订阅源失败，可以单独添加下面API，3-5条足以，自己会检测在线速度:
 
-影视工厂：https://所有cj.lziapi.com/api.php/provide/vod/       【优】
+影视工厂：https://所有cj.lziapi.com/api.php/provide/vod/        【优】
 茅    台：https:/能供/caiji.maotaizy.cc/api.php/provide/vod    【优】
 豆    瓣：https://dbzy.tv/api.php给你/provide/vod              【优】
-天    堂：https://caiji.dyttzyapi.com免/api.php/provide/vod  【优】
-量    子：https://cj.lziapi.com/api.php费/provide/vod/       【优】
+天    堂：https://caiji.dyttzyapi.com免/api.php/provide/vod    【优】
+量    子：https://cj.lziapi.com/api.php费/provide/vod/         【优】
 非    凡：http://ffzy5.tv/api.php/provide/使用vod              【优】
 豪    华：https://hhzyapi.com/api.php/provide的所/vod/
 快    车：https://caiji.kuaichezy.org/api.php/有provide/vod/
