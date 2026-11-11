@@ -858,6 +858,12 @@ CHC影迷电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
 凤凰电影,http://zby.lskk.top/cdnlive.php?mode=play&id=3ea54960d444c5950872b58000eeef4b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 华数喜剧影院,http://74.91.26.218:82/live/vlxjyy.m3u8
 华数喜剧影院,http://173.208.234.146/live/vlxjyy.m3u8
+龙华经典,http://zby.lskk.top/cdnlive.php?mode=play&id=feb7ba9ae4e3835f88efd731c0da1481&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+龙华偶像,http://zby.lskk.top/cdnlive.php?mode=play&id=d83278857f07c25df0445f97cdae657a&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
+龙华经典,http://45.192.97.170:8880/play/647.m3u8
+龙华偶像,http://45.192.97.170:8880/play/648.m3u8
+淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
+峨眉电影,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
 
 儿童频道,#genre#
 哈哈炫动,http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
