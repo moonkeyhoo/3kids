@@ -10,7 +10,7 @@
       "url": "https://mg.0186.ccwu.cc/dashengruoyu",
       "playerType": 1,
       "ua": "okhttp/3.8.1",
-      "timeout": 20,
+      "timeout": 10,
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
@@ -20,7 +20,7 @@
       "url": "https://4tv.0186.ccwu.cc",
       "playerType": 1,
       "ua": "okhttp/3.8.1",
-      "timeout": 20,
+      "timeout": 10,
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
@@ -30,7 +30,7 @@
       "url": "https://5ports.0186.ccwu.cc/live.m3u",
       "playerType": 1,
       "ua": "okhttp/3.8.1",
-      "timeout": 20,
+      "timeout": 10,
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
@@ -40,6 +40,7 @@
       "url": "https://xhs.0186.ccwu.cc/xhslist.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
+      "timeout": 10,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -48,6 +49,8 @@
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u",
       "playerType": 1,
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
@@ -56,6 +59,8 @@
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt",
       "playerType": 1,
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
@@ -64,6 +69,8 @@
       "type": 0,
       "url": "https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt",
       "playerType": 1,
+      "ua": "okhttp/3.8.1",
+      "timeout": 10,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
@@ -73,7 +80,7 @@
       "url": "https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/MTV.txt",
       "playerType": 1,
       "ua": "okhttp/3.8.1",
-      "timeout": 20,
+      "timeout": 10,
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     }
