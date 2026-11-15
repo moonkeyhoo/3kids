@@ -1,6 +1,82 @@
 {
   "spider": ""https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/bh0822_%E5%90%88%E5%B9%B6%E7%89%88.jar",",
   "warningText": "声明：资源来自网络，无盈利，所有内容仅供学习测试使用，请勿用于违法及商业用途，请勿付费购买，测试之后请自行删除]",
+  "lives": [
+    {
+      "name": "migu",
+      "type": 0,
+      "url": "https://mg.0186.ccwu.cc/dashengruoyu",
+      "playerType": 1,
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
+    },
+    {
+      "name": "4TV",
+      "type": 0,
+      "url": "https://4tv.0186.ccwu.cc",
+      "playerType": 1,
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
+    },
+    {
+      "name": "五大联赛",
+      "type": 0,
+      "url": "https://5ports.0186.ccwu.cc/live.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
+    },
+    {
+      "name": "世界杯4K",
+      "type": 0,
+      "url": "https://xhs.0186.ccwu.cc/xhslist.m3u  ",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "YSP",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "4TV备用",
+      "type": 0,
+      "url": "https://gh-proxy.com/
+https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt ",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "大杂烩",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+  {
+      "name": "MTV",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/MTV.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.8.1",
+      "timeout": 20,
+      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
+    },
+  ],
   "sites": [
     {
       "key": "豆瓣",
@@ -3226,83 +3302,6 @@
       }
     }
   ]
-}
-"lives": [
-    {
-      "name": "migu",
-      "type": 0,
-      "url": "https://mg.0186.ccwu.cc/dashengruoyu",
-      "playerType": 1,
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "name": "4TV",
-      "type": 0,
-      "url": "https://4tv.0186.ccwu.cc",
-      "playerType": 1,
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "name": "五大联赛",
-      "type": 0,
-      "url": "https://5ports.0186.ccwu.cc/live.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "name": "世界杯4K",
-      "type": 0,
-      "url": "https://xhs.0186.ccwu.cc/xhslist.m3u  ",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "YSP",
-      "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u",
-      "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "4TV备用",
-      "type": 0,
-      "url": "https://gh-proxy.com/
-https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt ",
-      "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "大杂烩",
-      "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt",
-      "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-  {
-      "name": "MTV",
-      "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/MTV.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.8.1",
-      "timeout": 20,
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-  ],
 {
       "name": "磁力广告",
       "hosts": [
