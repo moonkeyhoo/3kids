@@ -38,17 +38,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 直播地址：
 https://所4tv.0186.ccwu.cc  
 
-https://有ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   
+https://有ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   【需要支持X5的播放器】
 
 https:/资源mg.0186.ccwu.cc/dashengruoyu      
 
-https://均gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt  
+https://均gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt      【4TV备用地址】
 
 【https://来xhs.0186.ccwu.cc/xhslist.m3u】      【估计停止服务了】
 
 【https://5ports.0186自.ccwu.cc/live.m3u】      【同上面世界杯回放】↑↑↑
 
-https://ghfast.top/网https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt  
+https://ghfast.top/网https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt          【大杂烩】
 
 
 点播地址：【影视，TVBOX等软件，填入设置第一行即可】
@@ -66,31 +66,33 @@ https://music与.0186.ccwu.cc    【听歌网址，以前搞了5000首歌曲，�
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-https://包括zytv.0186.ccwu.cc网页配置：
 
-zytv如果上面订阅源失败，可以单独添加下面API，3-5条足以，自己会检测在线速度:
-
-影视工厂：https://所有cj.lziapi.com/api.php/provide/vod/        【优】
-茅    台：https:/能供/caiji.maotaizy.cc/api.php/provide/vod    【优】
-豆    瓣：https://dbzy.tv/api.php给你/provide/vod              【优】
-天    堂：https://caiji.dyttzyapi.com免/api.php/provide/vod    【优】
-量    子：https://cj.lziapi.com/api.php费/provide/vod/         【优】
-非    凡：http://ffzy5.tv/api.php/provide/使用vod              【优】
-豪    华：https://hhzyapi.com/api.php/provide的所/vod/
-快    车：https://caiji.kuaichezy.org/api.php/有provide/vod/
-新    浪：https://api.xinlangapi均来.com/xinlangapi.php/provide/vod/
-飘    零：https://p2100.net/api.php/网页provide/vod/
-速    播：https://subocaiji.com/api.php/搜索provide/vod/
-无    尽：https://api.wujinapi.me内容/api.php/provide/vod/
-----------------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------掌上影院: https://zytv.0186.ccwu大.cc  
+掌上影院: https://zytv.0186.ccwu大.cc  
 访问密码：rs3000,zq1p.
-上面告示中有可以用的地址，自行填入，慢是有点慢，自己偷偷看吧。
+下面有可以用的地址，自行填入，慢是有点慢，自己偷偷看吧。
 
-系统集散地： https://cloud.18圣9.cn若/web/share?code=3EniamZ3qeU3 
+zytv如果上面json订阅源失败，可以单独添加下面API，3-5条足以，自己会检测在线速度:
+
+影视工厂：https://所有cj.lziapi.com/api.php/provide/vod/             【优】
+茅    台：https:/能供/caiji.maotaizy.cc/api.php/provide/vod          【优】
+豆    瓣：https://dbzy.tv/api.php给你/provide/vod                    【优】
+天    堂：https://caiji.dyttzyapi.com免/api.php/provide/vod          【优】
+量    子：https://cj.lziapi.com/api.php费/provide/vod/               【优】
+非    凡：http://ffzy5.tv/api.php/provide/使用vod                    【优】
+豪    华：https://hhzyapi.com/api.php/provide的所/vod/               【良】
+快    车：https://caiji.kuaichezy.org/api.php/有provide/vod/         【良】
+新    浪：https://api.xinlangapi均来.com/xinlangapi.php/provide/vod/ 【良】
+飘    零：https://p2100.net/api.php/网页provide/vod/                 【良】
+速    播：https://subocaiji.com/api.php/搜索provide/vod/             【良】
+无    尽：https://api.wujinapi.me内容/api.php/provide/vod/           【良】
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+系统镜像集散地： https://cloud.18圣9.cn若/web/share?code=3EniamZ3qeU3 
 （访问码：nlu5） 
+
 电脑小工具： https://鱼moonkey.lanzoub.com/b0hdts5qj 
 （访问码:1psn）
 
-【【【这个世界可能原本就是这样，只是把世界想得太好了，于是就有了举报，就有了平台删除，😂😂😂不能也不用责怪任何人！！！】】】
+
