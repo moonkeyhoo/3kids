@@ -5,19 +5,19 @@
   "warningText": "声明：资源来自网络，内容仅供学习测试使用，勿用于违法及商业用途，请勿付费购买，测试后请立即删除]",
   "lives": [
     {
-      "name": "migu",
+      "name": "4TV",
       "type": 0,
-      "url": "https://mg.0186.ccwu.cc/dashengruoyu",
+      "url": "https://4tv.0186.ccwu.cc",
       "playerType": 1,
       "ua": "okhttp/5.3.2",
       "timeout": 20,
       "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
-    {
-      "name": "4TV",
+        {
+      "name": "migu",
       "type": 0,
-      "url": "https://4tv.0186.ccwu.cc",
+      "url": "https://mg.0186.ccwu.cc/dashengruoyu",
       "playerType": 1,
       "ua": "okhttp/5.3.2",
       "timeout": 20,
