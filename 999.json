@@ -25,9 +25,9 @@
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
     {
-      "name": "五大联赛",
+      "name": "KKX",
       "type": 0,
-      "url": "https://5ports.0186.ccwu.cc/live.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/IPTV/refs/heads/main/iptv.txt",
       "playerType": 1,
       "ua": "okhttp/5.3.2",
       "timeout": 20,
@@ -35,9 +35,9 @@
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
     {
-      "name": "世界杯4K",
+      "name": "KKX2",
       "type": 0,
-      "url": "https://xhs.0186.ccwu.cc/xhslist.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/IPTV/refs/heads/main/ipv4.txt",
       "playerType": 1,
       "ua": "okhttp/5.3.2",
       "timeout": 20,
@@ -47,7 +47,7 @@
     {
       "name": "YSP",
       "type": 0,
-      "url": "https://gh-proxy.com//https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u",
       "playerType": 1,
       "ua": "okhttp/5.3.2",
       "timeout": 20,
