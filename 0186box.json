@@ -3266,13 +3266,5 @@
   "z8.cnzz.com"
   "vip.ffzyad.com"
 ]
-  "proxy": [],
-  "rules": [],
-  "ijk": {
-  "mediaCodec": 1,
-  "mediaCodecAutoRotate": 1,
-  "mediaCodecHandleResolutionChange": 1,
-  "opensles": 0,
-  "soundTouch": 1
-}
-}
+ 
+
