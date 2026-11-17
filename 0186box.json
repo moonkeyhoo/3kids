@@ -3180,10 +3180,11 @@
       "playerType": 1,
       "ua": "okhttp/5.3.2",
       "timeout": 20,
-      "epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
-  ],
+  ]
+}
   "parses": [],
   "doh": [
   {
