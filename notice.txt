@@ -37,26 +37,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 以下地址，去掉链接中汉字使用！！！以下地址，去掉链接中汉字使用！！！以下地址，去掉链接中汉字使用！！！
 
 直播地址：
-https://所4tv.0186.ccwu.cc  
+4TV        https://所4tv.0186.ccwu.cc  
 
-https://有ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   【需要支持X5的播放器】
+X5         https://有ghfast.top/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/webview-X5.m3u   【需要支持X5的播放器】
 
-https:/资源mg.0186.ccwu.cc/dashengruoyu      
+MIGU       https:/资源mg.0186.ccwu.cc/dashengruoyu      
 
-https://均gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt      【4TV备用地址】
+4TV备用    https://均gh-proxy.com/https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/backup.txt      
 
-【https://来xhs.0186.ccwu.cc/xhslist.m3u】      【估计停止服务了】
+世界杯4K   【https://来xhs.0186.ccwu.cc/xhslist.m3u】      【估计停止服务了】
 
-【https://5ports.0186自.ccwu.cc/live.m3u】      【同上面世界杯回放】↑↑↑
+五大联赛   【https://5ports.0186自.ccwu.cc/live.m3u】      【同上面世界杯回放】↑↑↑
 
-https://ghfast.top/网https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt          【大杂烩】
+大杂烩      https://ghfast.top/网https://raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/4u4me.txt          
 
 
 点播地址：【影视，TVBOX等软件，填入设置第一行即可】
 
-自用线路：https://ghfast.top/https:用//raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186box.json   【聚合整理自用，已经添加上面直播地址】
+聚合自用线路   https://ghfast.top/https:用//raw.githubusercontent.com/moonkeyhoo/3kids/refs/heads/main/0186box.json   
 
-网友分享：https://raw.giteeusercontent.于com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json   
+
+网友分享      https://raw.giteeusercontent.于com/yuncku/jutxia/raw/master/jtxtv09/jtxtv09.json   
 
 https://music与.0186.ccwu.cc    【听歌网址，以前搞了5000首歌曲，大部分是FLAC，好久未新增，凑活听吧。用户名：guest  密码：123@567  网页打开后，右上角点击用户头像--Personal中更换语言】
 
@@ -72,20 +73,9 @@ https://music与.0186.ccwu.cc    【听歌网址，以前搞了5000首歌曲，�
 访问密码：rs3000,zq1p.
 下面有可以用的地址，自行填入，慢是有点慢，自己偷偷看吧。
 
-zytv如果上面json订阅源失败，可以单独添加下面API，3-5条足以，自己会检测在线速度:
+zytv这个项目已经被做成APP了，择时分享，手机端电视端是同一个apk,分享的线路通用。
 
-影视工厂：https://所有cj.lziapi.com/api.php/provide/vod/             【优】
-茅    台：https:/能供/caiji.maotaizy.cc/api.php/provide/vod          【优】
-豆    瓣：https://dbzy.tv/api.php给你/provide/vod                    【优】
-天    堂：https://caiji.dyttzyapi.com免/api.php/provide/vod          【优】
-量    子：https://cj.lziapi.com/api.php费/provide/vod/               【优】
-非    凡：http://ffzy5.tv/api.php/provide/使用vod                    【优】
-豪    华：https://hhzyapi.com/api.php/provide的所/vod/               【良】
-快    车：https://caiji.kuaichezy.org/api.php/有provide/vod/         【良】
-新    浪：https://api.xinlangapi均来.com/xinlangapi.php/provide/vod/ 【良】
-飘    零：https://p2100.net/api.php/网页provide/vod/                 【良】
-速    播：https://subocaiji.com/api.php/搜索provide/vod/             【良】
-无    尽：https://api.wujinapi.me内容/api.php/provide/vod/           【良】
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------
